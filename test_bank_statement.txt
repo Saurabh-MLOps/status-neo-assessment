@@ -1,0 +1,39 @@
+BANK OF INDIA - ACCOUNT STATEMENT
+Account Number: 1234567890
+Account Holder: Arjun Patel
+Statement Period: January 2024 - March 2024
+
+TRANSACTION HISTORY:
+Date        Description                    Debit      Credit     Balance
+01/01/2024  Opening Balance                                    ₹85,000.00
+05/01/2024  Salary Credit - TCS         ₹75,000.00             ₹1,60,000.00
+15/01/2024  ATM Withdrawal               ₹5,000.00              ₹1,55,000.00
+20/01/2024  Utility Bill Payment        ₹2,500.00              ₹1,52,500.00
+25/01/2024  Grocery Store                ₹3,200.00              ₹1,49,300.00
+
+05/02/2024  Salary Credit - TCS         ₹75,000.00             ₹2,24,300.00
+10/02/2024  Rent Payment                 ₹15,000.00             ₹2,09,300.00
+18/02/2024  Shopping                     ₹8,500.00              ₹2,00,800.00
+28/02/2024  Restaurant                   ₹2,800.00              ₹1,98,000.00
+
+05/03/2024  Salary Credit - TCS         ₹75,000.00             ₹2,73,000.00
+12/03/2024  Insurance Premium            ₹5,000.00              ₹2,68,000.00
+20/03/2024  Fuel Station                 ₹3,500.00              ₹2,64,500.00
+25/03/2024  Online Shopping              ₹4,200.00              ₹2,60,300.00
+
+SUMMARY:
+Total Credits: ₹2,25,000.00
+Total Debits: ₹47,700.00
+Net Change: ₹1,77,300.00
+Closing Balance: ₹2,60,300.00
+
+EMPLOYMENT VERIFICATION:
+Employer: Tata Consultancy Services (TCS)
+Employee ID: TCS12345
+Department: Software Development
+Position: Senior Software Engineer
+Monthly Salary: ₹75,000.00
+Employment Status: Full-time Permanent
+Employment Start Date: March 2019
+
+This document serves as proof of income and employment for social support application purposes. 
